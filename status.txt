@@ -1,1 +1,2 @@
 i am adding this status functionality for whatsapp application
+new changes
